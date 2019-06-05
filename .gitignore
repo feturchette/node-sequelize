@@ -3,3 +3,4 @@ data
 .env
 yarn.lock
 .DS_Store
+__tests__/coverage/
